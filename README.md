@@ -11,3 +11,6 @@ Cybersecurity Policy Compliance Checker is a Python tool that automates the asse
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+## Usage
+python cyber_compliance_policy_checker.py policy_document.docx

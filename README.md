@@ -14,4 +14,4 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-python cyber_compliance_policy_checker.py policy_document.docx
+python policy_checker.py policy_document.docx
